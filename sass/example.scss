@@ -1,0 +1,20 @@
+html {
+  &.app-online {
+    .offline-overlay {
+      display: none;
+    }
+
+    .app {
+      display: block;
+    }
+  }
+
+  &.app-offline {
+    .offline-overlay {
+      display: block;
+    }
+    .app {
+      display: none;
+    }
+  }  
+}

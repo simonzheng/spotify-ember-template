@@ -1,0 +1,12 @@
+html.app-online .offline-overlay {
+  display: none;
+}
+html.app-online .app {
+  display: block;
+}
+html.app-offline .offline-overlay {
+  display: block;
+}
+html.app-offline .app {
+  display: none;
+}

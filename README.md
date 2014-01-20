@@ -22,6 +22,13 @@ How to set up your app
 9. Configure your API endpoint in config.js (don't forget to give access permissions in manifest.json)
 10. Happy coding!
 
+API References
+---------------
+
+- Spotify Apps API: https://developer.spotify.com/docs/apps/api/1.0/
+- Spotify Views API: https://developer.spotify.com/docs/apps/views/1.0/
+- Spotify Design Guidelines: https://developer.spotify.com/technologies/apps/guidelines/design/
+
 Notes
 -----
 
